@@ -2,7 +2,7 @@ body{
   font-family: 'Raleway', sans-serif; /* Test for this*/
   margin: 0;
   padding: 0;
-  font-size: 16pt; /* test for this! Make all sizes em or rem */
+  font-size: 1em; /* test for this! Make all sizes em or rem */
   background-image: url('../images/concrete_seamless.png');
 }
 
@@ -76,7 +76,6 @@ Keyframes for animation*/
   display: flex;
   min-height: 500px;
   flex-wrap: wrap;
-  /*flex-direction: column;*/
   justify-content: center;
   align-items: center;
 }
